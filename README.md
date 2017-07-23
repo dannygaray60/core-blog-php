@@ -7,7 +7,7 @@ Sistema basico php para desarrollar un blog desde cero (No incluye conexión a b
   <li>Biblioteca multimedia de imágenes (también está integrado a summernote)</li>
 </ul>
 
-<p>Frameworks de terceros usados en este ejemplo:</p>
+<p>Frameworks usados en este ejemplo:</p>
 <ul>
   <li><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></li>
   <li><a href="http://jquery.com/" target="_blank">JQuery</a></li>
